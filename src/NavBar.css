@@ -1,0 +1,11 @@
+.NavBar {
+    background-color: darkcyan;
+    text-align: center;
+}
+
+.NavBar a {
+    font-size: 2rem;
+    color: white;
+    font-weight: 600;
+    margin: 1.5rem;
+}
